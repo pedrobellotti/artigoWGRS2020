@@ -7,7 +7,7 @@ Neste repositório você encontra os códigos e saídas do artigo.
 
 ## Organização das pastas
 * Códigos: códigos usados nos computadores cliente, servidor e controlador, bem como o notebook Jupyter usado para gerar os gráficos.
-* Saídas: todas as saídas geradas pelo controlador, comutadores, clientes e servidor durante a execução
+* Saídas: todas as saídas geradas pelo controlador, comutadores, cliente e servidor durante a execução
 
 ## Nomeação dos arquivos de saída
 As saídas estão nomeadas de forma testeX_YZ, onde:
